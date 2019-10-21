@@ -23,6 +23,9 @@ https://proandroiddev.com/dagger-2-annotations-binds-contributesandroidinjector-
 #### Using Dagger 2 for dependency injection in Android - Tutorial
 https://www.vogella.com/tutorials/Dagger/article.html
 
+####Dependency injection with Dagger 2: @Inject and @Provides
+https://medium.com/@yostane/dependency-injection-with-dagger-2-inject-and-provides-ce21f7449ec5
+
 ### Useful Youtube Video
 
 https://www.youtube.com/watch?v=ZZ_qek0hGkM&t=1s
