@@ -16,8 +16,21 @@ https://medium.com/@princessdharmy/dagger-2-with-mvvm-simplified-3215b3cf4c96
 
 https://levelup.gitconnected.com/dagger-2-for-dummies-in-kotlin-with-one-page-simple-code-project-618a5f9f2fe8
 
+#### Dagger 2 Annotations: @Binds & @ContributesAndroidInjector
+
+https://proandroiddev.com/dagger-2-annotations-binds-contributesandroidinjector-a09e6a57758f
+
+#### Using Dagger 2 for dependency injection in Android - Tutorial
+https://www.vogella.com/tutorials/Dagger/article.html
+
 ### Useful Youtube Video
+
 https://www.youtube.com/watch?v=ZZ_qek0hGkM&t=1s
 
-### Extending and Implementing:
+### Random cool information
+
+Extending and Implementing:
 https://stackoverflow.com/questions/48391217/extend-and-implement-at-the-same-time-in-kotlin
+
+https://stackoverflow.com/questions/37618738/how-to-check-if-a-lateinit-variable-has-been-initialized
+Checking if lateinit has been initialised
