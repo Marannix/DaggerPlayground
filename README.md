@@ -1,5 +1,7 @@
 # DaggerPlayground
  
+Implemented Dagger in this Dummy Project.
+
 ### Useful Articles for Dagger
 
 https://medium.com/@serapbercin001/how-to-use-android-injector-for-activity-and-fragment-objects-through-new-dagger-2-with-kotlin-704eb8a98c43
