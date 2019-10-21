@@ -5,11 +5,11 @@ import android.os.Bundle
 import dagger.internal.DaggerCollections
 import javax.inject.Inject
 
-class MainActivity : AppCompatActivity() {
+class MainActivity : BaseActivity() {
 
     @Inject
     lateinit var car: Car
-//    private lateinit var carComponent: CarComponent
+//    private lateinit var carComponent: ApplicationComponent
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
